@@ -167,6 +167,11 @@ Ask questions grounded in resume context.
 
 ```
 
+## Repository Structure
+
+frontend/  → React UI  
+backend/   → FastAPI + FAISS + Gemini RAG pipeline (developed on Colab)
+
 
 ### Author:  Shreyansh Kumar Singh 
 
